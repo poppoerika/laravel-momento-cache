@@ -1,12 +1,12 @@
 {
-  "name": "erikatharp/laravel-momento-cache",
+  "name": "momentohq/laravel-momento-cache",
   "description": "Taggable Momento cache driver for Laravel.",
   "type": "package",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "erikatharp",
-      "email": "eem@momentohq.com"
+      "name": "momento",
+      "email": "eng-deveco@momentohq.com "
     }
   ],
   "require": {
